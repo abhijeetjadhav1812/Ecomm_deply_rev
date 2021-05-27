@@ -1,0 +1,30 @@
+/usr/lib/python3.6/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.26.4) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+
+/usr/lib/python3.6/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.26.4) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+
+/usr/lib/python3.6/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.26.4) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+
+/usr/lib/python3.6/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.26.4) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+
+/usr/lib/python3.6/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.26.4) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+
+/usr/lib/python3.6/site-packages/requests/__init__.py:91: RequestsDependencyWarning: urllib3 (1.26.4) or chardet (3.0.4) doesn't match a supported version!
+  RequestsDependencyWarning)
+
+Created symlink /etc/systemd/system/multi-user.target.wants/httpd.service → /usr/lib/systemd/system/httpd.service.
+Created symlink /etc/systemd/system/mysql.service → /usr/lib/systemd/system/mariadb.service.
+Created symlink /etc/systemd/system/mysqld.service → /usr/lib/systemd/system/mariadb.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/mariadb.service → /usr/lib/systemd/system/mariadb.service.
+Warning: ALREADY_ENABLED: 3306:tcp
+Warning: ALREADY_ENABLED: 80:tcp
+ERROR 1007 (HY000) at line 1: Can't create database 'ecomdb'; database exists
+ERROR 1050 (42S01) at line 2: Table 'products' already exists
+fatal: destination path '/var/www/html' already exists and is not an empty directory.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10502    0 10502    0     0  1281k      0 --:--:-- --:--:-- --:--:-- 1281k
