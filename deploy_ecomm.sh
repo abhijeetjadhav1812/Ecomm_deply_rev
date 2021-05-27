@@ -12,6 +12,7 @@ case $1 in
    "green") COLOR="\033[0;32m" ;;
    "red") COLOR="\033[0;31m" ;;
    "cyan") COLOR="\033[0;36m" ;;
+   "blue") COLOR ="\033[0;33m" ;;
    "*") COLOR="\033[0m" ;;
  
 esac  
